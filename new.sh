@@ -1,5 +1,10 @@
-#!/bin/sh
+#/bin/sh
 ls
 echo "Welcome"
-mkdir 1234
-cd 1234
+echo "What is your Name"
+read Name
+Hi
+echo "How are you $Name"
+read answer
+fine
+echo "me too $answer!"

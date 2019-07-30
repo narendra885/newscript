@@ -1,4 +1,5 @@
 #/bin/sh
+ls
 echo "Welcome"
 echo "What is your Name"
 read Name

@@ -17,3 +17,6 @@ echo "valid user"
 else
 echo "invalid user"
 fi
+
+((length=5-5))
+echo $area

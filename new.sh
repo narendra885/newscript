@@ -10,3 +10,4 @@ echo "me too $answer!"
 
 
 this update for git pull
+malli check

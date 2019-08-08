@@ -8,3 +8,5 @@ echo "How are you $Name"
 read answer
 fine
 echo "me too $answer!"
+
+for jenkins 

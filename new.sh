@@ -1,5 +1,4 @@
 #/bin/sh
-ls
 echo "Welcome"
 echo "What is your Name"
 read Name
@@ -9,4 +8,10 @@ read answer
 fine
 echo "me too $answer!"
 
+<<<<<<< HEAD
 for jenkins 
+=======
+
+this update for git pull
+malli check
+>>>>>>> fb99840c41c7f63eda13b001866ed388bad30c44

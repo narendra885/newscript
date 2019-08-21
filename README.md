@@ -1,1 +1,2 @@
 # newscript
+hi
